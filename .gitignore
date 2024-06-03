@@ -1,7 +1,6 @@
 tags
-test.sh
-.luarc.json
-nvim
-
-spell/
-lazy-lock.json
+en.utf-8.add.spl
+*.exe
+.netrwhist
+*.log
+.DS_Store
